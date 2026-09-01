@@ -11,7 +11,7 @@ e messo in sicurezza strato dopo strato (HTTPS, secret, privilegio minimo,
 rate limiting, log).
 
 ## Stack
-- Backend: (da confermare — Python/FastAPI o Java/Spring Boot)
+- Backend: Python/FastAPI
 - Cloud: AWS
 - Sicurezza: documentata in /docs/security-log.md
 
