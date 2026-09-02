@@ -17,3 +17,5 @@ rate limiting, log).
 
 ## Diario
 - Settimana 1: creazione del repository e dell'account AWS sicuro.
+- Settimana 1: account AWS creato, allarme di fatturazione attivo.
+  TODO: attivare MFA sul root user al prossimo accesso.
